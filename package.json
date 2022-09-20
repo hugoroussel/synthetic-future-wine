@@ -1,0 +1,31 @@
+{
+  "name": "synthetic-future-wine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugoroussel/synthetic-future-wine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugoroussel/synthetic-future-wine/issues"
+  },
+  "homepage": "https://github.com/hugoroussel/synthetic-future-wine#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "@nomiclabs/hardhat-solhint": "^2.0.1",
+    "eslint": "^8.23.1",
+    "hardhat": "^2.11.1",
+    "prettier": "2.7.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "dotenv": "^16.0.2"
+  }
+}
